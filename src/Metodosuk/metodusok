@@ -15,9 +15,9 @@ public class JavaApplication4 {
      */
     public static void main(String[] args) {
         elso10szam();
-        kiir("az elsö 10 szám összege = " + elso10szam());
+        kiir("az elsö 10 szám összege =" + elso10szam());
         osszead(10, 20);
-        kiir("a és b öszege");
+        kiir"a és b öszege");
     }
 
     private static int elso10szam() {
